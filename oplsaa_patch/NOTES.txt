@@ -1,0 +1,9 @@
+NOTE:
+
+write 
+'CSO	Protein'
+
+in new line in residuetypes.dat
+
+
+the patched OPLSS includes a new .itp for CSO, and some changes to config to make it work. NOTE THAT THIS IS A WORKAROUND.
